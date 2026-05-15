@@ -1,2 +1,7 @@
-# demo-a-m-pericoli-cia
-Demo web para A.M. Pericoli &amp; Cia — diseñada por eterlab.
+# A.M. Pericoli & Cia
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
